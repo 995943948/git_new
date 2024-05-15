@@ -11,4 +11,8 @@ test 555
 
 branch 111
 
+<<<<<<< HEAD
 branchtwo 2222
+=======
+branchtwo 2222
+>>>>>>> dev2
